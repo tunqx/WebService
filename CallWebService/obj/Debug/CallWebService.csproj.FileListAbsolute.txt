@@ -1,0 +1,9 @@
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\bin\Debug\CallWebService.exe.config
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\bin\Debug\CallWebService.exe
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\bin\Debug\CallWebService.pdb
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.csprojResolveAssemblyReference.cache
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.Form1.resources
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.Properties.Resources.resources
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.csproj.GenerateResource.Cache
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.exe
+c:\users\18-401\documents\visual studio 2012\Projects\CallWebService\CallWebService\obj\Debug\CallWebService.pdb

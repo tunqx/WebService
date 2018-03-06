@@ -1,0 +1,5 @@
+c:\users\18-401\documents\visual studio 2012\Projects\AreaService\AreaService\bin\AreaService.dll
+c:\users\18-401\documents\visual studio 2012\Projects\AreaService\AreaService\bin\AreaService.pdb
+c:\users\18-401\documents\visual studio 2012\Projects\AreaService\AreaService\obj\Debug\AreaService.csprojResolveAssemblyReference.cache
+c:\users\18-401\documents\visual studio 2012\Projects\AreaService\AreaService\obj\Debug\AreaService.dll
+c:\users\18-401\documents\visual studio 2012\Projects\AreaService\AreaService\obj\Debug\AreaService.pdb
